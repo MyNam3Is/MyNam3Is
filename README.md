@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MyNam3Is
+- 👀 I’m interested in code/hacking/python
+- 🌱 I’m currently learning Python
+-Can you contact whit me in discord: MeLlamoPan#9431
